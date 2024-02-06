@@ -4,9 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Who am I?
+Hi all! My name is Ben Zhang and I am a graduating senior with a major in Computer Science and a minor in Data Science
+
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hobbies
+* Music (Playing and listening)
+* Food (Eating)
 
